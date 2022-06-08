@@ -110,7 +110,7 @@ nav a:hover{
     margin-bottom:-1%;
 }
 .backdrop{
-    background-image: url(Assets/backdrop.jpg); 
+    background-image: url(assets/backdrop.jpg); 
     background-size: cover; 
     text-align: center; 
     background-attachment: fixed; 
