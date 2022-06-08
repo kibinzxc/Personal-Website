@@ -41,7 +41,7 @@ nav a:hover{
     color:#FFB6C1;
 }
 .backdrop{
-    background-image: url(Assets/background-2nd.png); 
+    background-image: url(assets/background-2nd.png); 
     background-size: cover; 
     text-align: center;
 }
