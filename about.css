@@ -107,7 +107,7 @@ nav a:hover{
     margin-bottom:-1%;
 }
 .backdrop{
-    background-image: url(Assets/gif1.gif); 
+    background-image: url(assets/gif1.gif); 
     background-size: cover; 
     text-align: center; 
     background-attachment: fixed; 
